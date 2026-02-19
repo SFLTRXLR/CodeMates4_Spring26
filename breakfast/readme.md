@@ -2,7 +2,7 @@
 
 ## Description
 
-<! The New York Times states, "These cocoa-infused crepes are delicious rolled up and eaten as-is, but for a more celebratory dessert, dress them up with your choice of chocolate-hazelnut spread, whipped cream, powdered sugar and berries." This breakfast item is a unique twist on a classic breakfast from French, bringing joy to so many people! 
+The New York Times states, "These cocoa-infused crepes are delicious rolled up and eaten as-is, but for a more celebratory dessert, dress them up with your choice of chocolate-hazelnut spread, whipped cream, powdered sugar and berries." This breakfast item is a unique twist on a classic breakfast from French, bringing joy to so many people! 
 
 ## Stats
 
@@ -16,15 +16,15 @@
 | Tags | e.g. sweet, celebratory, French |
 
 ### Ingredients:
-½cup/118 milliliters milk (1%, 2% or whole)
-1large egg, at room temperature
-1tablespoon granulated sugar
-1tablespoon unsalted butter, melted, plus more for the pan 
-½teaspoon vanilla extract
-¼teaspoon kosher salt
-⅓cup/42 grams all-purpose flour
-1tablespoon unsweetened cocoa powder 
-Chocolate-hazelnut spread, whipped cream, berries or powdered sugar (or a combination), for serving (optional)
+- ½cup/118 milliliters milk (1%, 2% or whole)
+- 1large egg, at room temperature
+- 1tablespoon granulated sugar
+- 1tablespoon unsalted butter, melted, plus more for the pan 
+- ½teaspoon vanilla extract
+- ¼teaspoon kosher salt
+- ⅓cup/42 grams all-purpose flour
+- 1tablespoon unsweetened cocoa powder 
+- Chocolate-hazelnut spread, whipped cream, berries or powdered sugar (or a combination), for serving (optional)
 
 ### Steps for preparation:
 
