@@ -2,7 +2,9 @@
 
 ## Description
 
-<!-- This hearty, flexible stew comes together with pantry ingredients and delivers layers of flavors. While this stew is lovely on its own, you could also add wilt-able greens such as kale, escarole or Swiss chard at the end, and toasted bread crumbs on top.  -->
+This hearty, flexible stew comes together with pantry ingredients and delivers layers of flavors. While this stew is lovely on its own, you could also add wilt-able greens such as kale, escarole or Swiss chard at the end, and toasted bread crumbs on top.
+
+<!-- add 1-2 sentences about the descriptions  -->
 
 ## Stats
 
