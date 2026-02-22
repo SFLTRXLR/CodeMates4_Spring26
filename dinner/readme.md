@@ -20,17 +20,17 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] ½cup roughly chopped Italian parsley leaves and tender stems
-- [ ] 2teaspoons lemon zest (from 1 large lemon)
-- [ ] 2(10-ounce) containers cherry or grape tomatoes
-- [ ] ¼cup olive oil, plus 2 tablespoons and more for drizzling (optional)
-- [ ] 1tablespoon fresh thyme leaves
+- [ ] ½ cup roughly chopped Italian parsley leaves and tender stems
+- [ ] 2 teaspoons lemon zest (from 1 large lemon)
+- [ ] 2 (10-ounce) containers cherry or grape tomatoes
+- [ ] ¼ cup olive oil, plus 2 tablespoons and more for drizzling (optional)
+- [ ] 1 tablespoon fresh thyme leaves
 - [ ] Kosher salt and black pepper
-- [ ] 1medium yellow onion, thinly sliced
-- [ ] 3large garlic cloves, thinly sliced
-- [ ] ½teaspoon red-pepper flakes
-- [ ] 2(15-ounce) cans white beans (such as butter or cannellini), rinsed
-- [ ] 1½cups vegetable or chicken broth, or water
+- [ ] 1 medium yellow onion, thinly sliced
+- [ ] 3 large garlic cloves, thinly sliced
+- [ ] ½ teaspoon red-pepper flakes
+- [ ] 2 (15-ounce) cans white beans (such as butter or cannellini), rinsed
+- [ ] 1½ cups vegetable or chicken broth, or water
 - [ ] Flaky salt, for serving (optional)
 - [ ] Toasted bread, for serving
 
