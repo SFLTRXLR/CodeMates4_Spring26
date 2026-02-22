@@ -1,36 +1,55 @@
-# Replace with recipe name
+# White Bean and Tomato Stew
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+<!-- This hearty, flexible stew comes together with pantry ingredients and delivers layers of flavors. While this stew is lovely on its own, you could also add wilt-able greens such as kale, escarole or Swiss chard at the end, and toasted bread crumbs on top.  -->
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Prep Time | 10 minutes |
+| Cook Time | 30 minutes |
+| Total Time | 40 minutes |
+| Servings | e.g. 4-6 |
+| Difficulty | Easy |
+| Tags | vegetarian, quick, good for large groups|
 
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
+- [ ] ½cup roughly chopped Italian parsley leaves and tender stems
+- [ ] 2teaspoons lemon zest (from 1 large lemon)
+- [ ] 2(10-ounce) containers cherry or grape tomatoes
+- [ ] ¼cup olive oil, plus 2 tablespoons and more for drizzling (optional)
+- [ ] 1tablespoon fresh thyme leaves
+- [ ] Kosher salt and black pepper
+- [ ] 1medium yellow onion, thinly sliced
+- [ ] 3large garlic cloves, thinly sliced
+- [ ] ½teaspoon red-pepper flakes
+- [ ] 2(15-ounce) cans white beans (such as butter or cannellini), rinsed
+- [ ] 1½cups vegetable or chicken broth, or water
+- [ ] Flaky salt, for serving (optional)
+- [ ] Toasted bread, for serving
+
+
       
 <!-- List every ingredient -->
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
+1. Heat the oven to 425 degrees. In a small bowl, gently toss together the parsley and lemon zest with your hands until well combined; set aside.
+2. In a large baking dish or on a sheet pan, toss the tomatoes with ¼ cup oil and thyme; season well with salt and pepper. Roast tomatoes until they have collapsed and begin to turn golden around the edges, 20 to 25 minutes.
+3. When the tomatoes are almost done roasting, heat 2 tablespoons oil in a large (12-inch), deep skillet or Dutch oven over medium. Add the onion, garlic and red-pepper flakes and cook until the onion is softened and the garlic is fragrant, 4 to 5 minutes. Stir in the rinsed beans and broth and bring to a simmer. With the back of a spoon or spatula, gently smash about ½ cup of the beans so they slightly thicken the broth. If you want a thicker stew, crush some more of the beans. Season with salt and pepper.
+4. When the tomatoes are finished roasting, add them directly to the stew along with any juices that have been released. Simmer for 5 to 10 minutes more so the flavors become friendly; season to taste with salt.
+5. Ladle into shallow bowls. Top each serving with some of the lemon-parsley mixture and drizzle with more olive oil, and season with flaky salt, if you like. Serve with toasted bread.
+   
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
+- The dish is vegan as written, but should you choose to top your bowl with a showering of grated pecorino or Parmesan, it would most likely work well in your favor.
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
-### Author(s):
+### Author(s): 
+- Colu Henry
