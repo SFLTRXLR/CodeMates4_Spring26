@@ -8,22 +8,22 @@ The New York Times states, "These cocoa-infused crepes are delicious rolled up a
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 10 minutes |
-| Cook Time | e.g. 15 minutes |
-| Total Time | e.g. 40 minutes |
-| Servings | e.g. 2-3 |
+| Prep Time | 10 minutes |
+| Cook Time | 15 minutes |
+| Total Time | 40 minutes |
+| Servings | 2-3 |
 | Difficulty | Medium |
-| Tags | e.g. sweet, celebratory, French |
+| Tags | sweet, celebratory, French |
 
 ### Ingredients:
-- ½cup/118 milliliters milk (1%, 2% or whole)
-- 1large egg, at room temperature
-- 1tablespoon granulated sugar
-- 1tablespoon unsalted butter, melted, plus more for the pan 
-- ½teaspoon vanilla extract
-- ¼teaspoon kosher salt
-- ⅓cup/42 grams all-purpose flour
-- 1tablespoon unsweetened cocoa powder 
+- ½ cup milk (1%, 2% or whole)
+- 1 large egg, at room temperature
+- 1 tablespoon granulated sugar
+- 1 tablespoon unsalted butter, melted, plus more for the pan 
+- ½ teaspoon vanilla extract
+- ¼ teaspoon kosher salt
+- ⅓ cup all-purpose flour
+- 1 tablespoon unsweetened cocoa powder 
 - Chocolate-hazelnut spread, whipped cream, berries or powdered sugar (or a combination), for serving (optional)
 
 ### Steps for preparation:
