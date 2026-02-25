@@ -54,4 +54,4 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s): 
-- Colu Henry
+- Sofi Trexler
