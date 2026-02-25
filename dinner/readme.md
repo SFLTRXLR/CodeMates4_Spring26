@@ -13,7 +13,7 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 | Prep Time | 10 minutes |
 | Cook Time | 30 minutes |
 | Total Time | 40 minutes |
-| Servings | e.g. 4-6 |
+| Servings | 4 |
 | Difficulty | Easy |
 | Tags | vegetarian, quick, good for large groups|
 
