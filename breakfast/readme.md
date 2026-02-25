@@ -10,7 +10,7 @@ The New York Times states, "These cocoa-infused crepes are delicious rolled up a
 |-------|------|
 | Prep Time | 10 minutes |
 | Cook Time | 15 minutes |
-| Total Time | 40 minutes |
+| Total Time | 25 minutes |
 | Servings | 2-3 |
 | Difficulty | Medium |
 | Tags | sweet, celebratory, French |
@@ -40,4 +40,4 @@ To ensure you have the correct pan size, be sure to measure the diameter of the 
 
 ### Author(s):
 
-Zaynab Issa
+Zaynab Issa (Original), Missy Martin
