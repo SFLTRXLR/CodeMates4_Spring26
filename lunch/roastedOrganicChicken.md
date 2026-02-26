@@ -15,15 +15,15 @@ Very cool Roasted Organic Chicken
 | Tags | #Organic #Chicken #Roast 
 
 ### Ingredients:
-- 1 (4 lb) whole organic chicken
-- 2 tbsp organic unsalted butter (softened)
-- 2 tbsp extra virgin olive oil
-- 1 whole lemon, halved
-- 4 cloves garlic, smashed
-- 3 sprigs fresh rosemary
-- 3 sprigs fresh thyme
-- 1 tsp sea salt
-- 1/2 tsp cracked black pepper
+- 2 (8 lb) whole organic chicken
+- 4 tbsp organic unsalted butter (softened)
+- 4 tbsp extra virgin olive oil
+- 2 whole lemon, halved
+- 8 cloves garlic, smashed
+- 6 sprigs fresh rosemary
+- 6 sprigs fresh thyme
+- 2 tsp sea salt
+- 1 tsp cracked black pepper
 
 ### Steps for preparation:
 - Preheat: Set your oven to 218°C (425°F).
