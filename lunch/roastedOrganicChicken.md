@@ -10,7 +10,7 @@ Very cool Roasted Organic Chicken
 | Prep Time | 15 mins
 | Cook Time | 1 hour 15 mins
 | Total Time | 1 hour 30 mins
-| Servings | 4-6
+| Servings | 8-12
 | Difficulty | Medium
 | Tags | #Organic #Chicken #Roast 
 
@@ -39,4 +39,4 @@ Very cool Roasted Organic Chicken
 
 
 ### Author(s):
-- Carlos Teryaki,Ayoung Cho(template), Yujin Jeong (ingredients)
+- Carlos Teryaki (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings)
