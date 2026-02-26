@@ -1,7 +1,6 @@
-# Title
-Organic Roasted Chicken
-## Description
-Very cool Roasted Organic Chicken
+# Organic Roasted Chicken
+
+## Very cool Roasted Organic Chicken
 
 ## Stats
 
