@@ -1,5 +1,5 @@
 # Title
-Roasted Roasted Chicken
+Organic Roasted Chicken
 ## Description
 Very cool Roasted Organic Chicken
 
@@ -39,4 +39,4 @@ Very cool Roasted Organic Chicken
 
 
 ### Author(s):
-- Carlos Teryaki (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings), Sebastian Bardacosta (Title and description)
+- Carlos Teryaki (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings), Sebastian Bardacosta (Title and description), Sofi (typo)
