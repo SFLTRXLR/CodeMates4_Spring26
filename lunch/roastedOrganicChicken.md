@@ -39,4 +39,4 @@ Very cool Roasted Organic Chicken
 
 
 ### Author(s):
-- Carlos Teryaki (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings)
+- Carlos Teryaki (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings), Sebastian Bardacosta (Title and description)
